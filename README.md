@@ -35,4 +35,4 @@ Antes de rodar pela primeira vez, confira se você já tem:
 ### E o resultado?
 
 O script vai cuspir um comando inteirinho no seu terminal! Ele devolve o link criptografado e blindado de segurança (expira em 12 horas) empacotado num exato comando do `curl`.
-Basta copiar da tela e mandar para pessoa! O contato que vai fazer o upload só precisa apontar para o arquivo dele no computador e colar o `curl` lá no terminal. Super autoexplicativo!
+Basta copiar da tela e mandar para pessoa! O contato que vai fazer o upload só precisa apontar para o arquivo dele no computador e colar o `curl` lá no terminal.
